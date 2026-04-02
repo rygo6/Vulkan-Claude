@@ -20,7 +20,7 @@ When you ask anything about Vulkan, MoltenVK, graphics programming, GPU APIs, re
 Clone with `--recurse-submodules` — the reference repos are git submodules:
 
 ```bash
-git clone --recurse-submodules <repo-url> ~/.claude/skills/vulkan
+git clone --recurse-submodules https://github.com/rygo6/Vulkan-Claude.git ~/.claude/skills/vulkan
 ```
 
 If you already cloned without submodules, initialize them after:
