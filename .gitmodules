@@ -1,12 +1,20 @@
 [submodule "references/MoltenVK"]
 	path = references/MoltenVK
 	url = https://github.com/KhronosGroup/MoltenVK.git
+	branch = main
 [submodule "references/Vulkan-Docs"]
 	path = references/Vulkan-Docs
 	url = https://github.com/KhronosGroup/Vulkan-Docs.git
+	branch = main
 [submodule "references/Vulkan-Guide"]
 	path = references/Vulkan-Guide
 	url = https://github.com/KhronosGroup/Vulkan-Guide.git
+	branch = main
 [submodule "references/Vulkan-Headers"]
 	path = references/Vulkan-Headers
 	url = https://github.com/KhronosGroup/Vulkan-Headers.git
+	branch = main
+[submodule "references/Vulkan-Samples"]
+	path = references/Vulkan-Samples
+	url = https://github.com/KhronosGroup/Vulkan-Samples.git
+	branch = main
